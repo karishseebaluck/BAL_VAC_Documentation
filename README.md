@@ -1,1 +1,2 @@
-# BAL_VAC_Documentation
+BAL Quasar Catalog for DESI Early Release Data
+==============================================
