@@ -13,7 +13,10 @@ A list of all the available files in our VAC. Link is at https://data.desi.lbl.g
 A table with the breakdown of all the files in the catalog and their data model.
 Should include a note on the columns for the FITS files, especially if changing the fuji table columns.
 
-Tutorial
+Example
 --------
 Not necessary, but we could include an example notebook that shows data being pulled from the VAC
 
+Contact Us
+----------
+This section lists people that could be contacted with questions about the VAC.
