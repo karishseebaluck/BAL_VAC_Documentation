@@ -9,9 +9,9 @@ A brief description of this readme
 
 Files and Data Models
 ---------------------
-A list of all the available files in our VAC. Link is at https://data.desi.lbl.gov/desi/users/martini/bal-catalogs/edr/
-A table with the breakdown of all the files in the catalog and their data model.
-Should include a note on the columns for the FITS files, especially if changing the fuji table columns.
+A list of all the available files in our VAC. Link is at https://data.desi.lbl.gov/desi/users/martini/bal-catalogs/edr/  
+A table with the breakdown of all the files in the catalog and their data model.  
+Should include a note on the columns for the FITS files, especially if changing the fuji table columns.  
 
 Example
 --------
