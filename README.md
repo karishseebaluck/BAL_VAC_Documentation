@@ -5,7 +5,7 @@ BAL Quasar Catalog for DESI Early Release Data
 
 Description
 -----------
-This document describes the content of our BAL value added catalogs with updated redshifts for DESI Fuji Early Data Release (EDR).
+This document describes the content of our BAL value added catalogs with updated redshifts for [DESI Fuji Early Data Release (EDR)](https://data.desi.lbl.gov/public/edr).
 A more detailed explanation for the catalogs can be found in Filbert et al. 2023 (in preparation). LINK NEEDED
 
 Files and Data Models
