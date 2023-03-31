@@ -10,13 +10,18 @@ A more detailed explanation for the catalogs can be found in Filbert et al. 2023
 
 Files and Data Models
 ---------------------
-A list of all the available files in our VAC. Link is at https://data.desi.lbl.gov/desi/users/martini/bal-catalogs/edr/  
-A table with the breakdown of all the files in the catalog and their data model.  
-Should include a note on the columns for the FITS files, especially if changing the fuji table columns.  
+The BAL catalogs with updated redshifts for Fuji (EDR) can be found at [https://data.desi.lbl.gov/public/edr/vac/lsdr9-photometry/fuji/v2.0](https://data.desi.lbl.gov/public/edr/vac/bal-masked-redshift/fuji-v1.0)
 
-Example
---------
-Not necessary, but we could include an example notebook that shows data being pulled from the VAC
+DESI Collaborators can access these files at /global/cfs/cdirs/desi/public/edr/vac/bal-masked-redshift/fuji-v1.0
+
+The VAC files contain catalogs of BALs that have had their absorption features masked. The BALs were then run through Paul Martini's [baltools] (https://github.com/paulmartini/baltools) to create the catalogs.
+
+Our VAC contains two catalogs which are described in more detail in the table below.
+
+| File Name | File Size |  Number of QSOs  |
+|-----------|:---------:|------------------|
+| QSO_cat_fuji_sv1_dark-bal-mask-priors-SNR-v1.0.fits | 42.7 MB | 37,903 |
+| QSO_cat_fuji_sv3_dark-bal-mask-priors-SNR-v1.0.fits | 57.4 MB | 50,993 |
 
 Contact Us
 ----------
