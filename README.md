@@ -5,7 +5,8 @@ BAL Quasar Catalog for DESI Early Release Data
 
 Description
 -----------
-A brief description of this readme
+This document describes the content of our BAL value added catalogs with updated redshifts for DESI Fuji Early Data Release (EDR).
+A more detailed explanation for the catalogs can be found in Filbert et al. 2023 (in preparation). LINK NEEDED
 
 Files and Data Models
 ---------------------
@@ -19,4 +20,5 @@ Not necessary, but we could include an example notebook that shows data being pu
 
 Contact Us
 ----------
-This section lists people that could be contacted with questions about the VAC.
+Contact [Simon Fillbert](filbert.6@buckeyemail.osu.edu) or [Paul Martini](martini.10@osu.edu) for questions regarding these catalogs.
+
