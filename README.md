@@ -20,5 +20,5 @@ Not necessary, but we could include an example notebook that shows data being pu
 
 Contact Us
 ----------
-Contact [Simon Fillbert](filbert.6@buckeyemail.osu.edu) or [Paul Martini](martini.10@osu.edu) for questions regarding these catalogs.
+Contact [Simon Fillbert](mailto:filbert.6@buckeyemail.osu.edu) or [Paul Martini](mailto:martini.10@osu.edu) for questions regarding these catalogs.
 
