@@ -24,8 +24,8 @@ Our VAC file contains two catalogs which are described in more detail in the tab
 | QSO_cat_fuji_sv3_dark-bal-mask-priors-SNR-v1.0.fits | 57.4 MB | 50,993 |
 
 **Note:** 
-The relevant data model for these catalogs can be found in the links below.
-The data model for the redshift fitting part of the columns can be found [here](https://desidatamodel.readthedocs.io/en/latest/DESI_SPECTRO_REDUX/SPECPROD/tiles/GROUPTYPE/TILEID/GROUPID/qso_qn-SPECTROGRAPH-TILEID-GROUPID.html) and [here.](https://desidatamodel.readthedocs.io/en/latest/DESI_SPECTRO_REDUX/SPECPROD/tiles/GROUPTYPE/TILEID/GROUPID/qso_mgii-SPECTROGRAPH-TILEID-GROUPID.html)
+The relevant data model for these catalogs can be found in the links below.<br />
+The data model for the redshift fitting part of the columns can be found [here](https://desidatamodel.readthedocs.io/en/latest/DESI_SPECTRO_REDUX/SPECPROD/tiles/GROUPTYPE/TILEID/GROUPID/qso_qn-SPECTROGRAPH-TILEID-GROUPID.html) and [here.](https://desidatamodel.readthedocs.io/en/latest/DESI_SPECTRO_REDUX/SPECPROD/tiles/GROUPTYPE/TILEID/GROUPID/qso_mgii-SPECTROGRAPH-TILEID-GROUPID.html)<br />
 Table 1 from [Fillbert et. al 2023](https://www.overleaf.com/read/gnvypxkmsdzs) (in preperation) contains details on the BAL specific columns.
 
 
