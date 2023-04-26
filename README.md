@@ -20,8 +20,8 @@ Our VAC file contains two catalogs which are described in more detail in the tab
 
 | File Name | File Size |  Number of QSOs  |
 |-----------|:---------:|------------------|
-| QSO_cat_fuji_sv1_dark-bal-mask-priors-SNR-v1.0.fits | 42.7 MB | 37,903 |
-| QSO_cat_fuji_sv3_dark-bal-mask-priors-SNR-v1.0.fits | 57.4 MB | 50,993 |
+| QSO_cat_fuji_sv1_dark_bal_mask_v1.0.fits | 42.7 MB | 37,903 |
+| QSO_cat_fuji_sv3_dark_bal_mask_v1.0.fits | 57.4 MB | 50,993 |
 
 **Note:**<br /> 
 The relevant data model for these catalogs can be found in the links below.<br />
