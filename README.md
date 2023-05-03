@@ -50,7 +50,7 @@ Our VAC file contains two catalogs which are described in more detail in the tab
 | SCND_TARGET | 37 | [Link](https://desidatamodel.readthedocs.io/en/latest/DESI_TARGET/TARG_DIR/DR/VERSION/targets/PHASE/RESOLVE/OBSCON/PHASEtargets-OBSCON-RESOLVE-hp-HP.html#hdu1) |
 | TSNR2_LYA | 38 | LYA template (S/N)^2 summed over B,R,Z |
 | TSNR2_QSO | 39 | QSO template (S/N)^2 summed over B,R,Z |
-
+| DELTA_CHI2_MGII | 40 | Difference of chi2 between redrock fit and MgII fitter over the lambda interval considered during the fit |
 
 
 **Note:**<br /> 
