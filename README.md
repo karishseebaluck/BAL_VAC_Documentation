@@ -26,7 +26,7 @@ Our VAC file contains two catalogs which are described in more detail in the tab
 | Column Name | # |  Description  |
 |:-----------:|:-:|---------------|
 | TARGETID | 0 | [Link](https://desidatamodel.readthedocs.io/en/latest/DESI_SPECTRO_REDUX/SPECPROD/tiles/GROUPTYPE/TILEID/GROUPID/qso_qn-SPECTROGRAPH-TILEID-GROUPID.html) |
-| QSO_cat_fuji_sv3_dark_bal_mask_v1.0.fits | 57.4 MB | 50,993 |
+| Z | 1 | QSO redshift |
 
 **Note:**<br /> 
 The relevant data model for these catalogs can be found in the links below.<br />
