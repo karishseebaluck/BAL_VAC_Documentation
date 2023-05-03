@@ -37,10 +37,19 @@ Our VAC file contains two catalogs which are described in more detail in the tab
 | EBV | 9 | [Link](https://desidatamodel.readthedocs.io/en/latest/DESI_TARGET/TARG_DIR/DR/VERSION/targets/PHASE/RESOLVE/OBSCON/PHASEtargets-OBSCON-RESOLVE-hp-HP.html#hdu1) |
 | PROBA_RF | 25 | ?? |
 | MASKBITS | 26 | [Link](https://desidatamodel.readthedocs.io/en/latest/DESI_TARGET/TARG_DIR/DR/VERSION/targets/PHASE/RESOLVE/OBSCON/PHASEtargets-OBSCON-RESOLVE-hp-HP.html#hdu1) |
-| SV3_DESI_TARGET | 27 | DESI (dark time program) target selection bitmask for SV2 |
+| SV3_DESI_TARGET | 27 | DESI (dark time program) target selection bitmask for SV3 |
 | SV3_SCND_TARGET | 28 | Secondary target selection bitmask for SV3 |
 | DESI_TARGET | 29 | [Link](https://desidatamodel.readthedocs.io/en/latest/DESI_TARGET/TARG_DIR/DR/VERSION/targets/PHASE/RESOLVE/OBSCON/PHASEtargets-OBSCON-RESOLVE-hp-HP.html#hdu1) |
 | COADD_NUMEXP | 30 | Number of exposures in coadd |
+| COADD_EXPTIME | 31 | Summed exposure time for coadd [seconds] |
+| COADD_EXPTIME | 32 | Target selection bitmask for commissioning |
+| SV1_DESI_TARGET | 33 | DESI (dark time program) target selection bitmask for SV1 |
+| SV2_DESI_TARGET | 34 | DESI (dark time program) target selection bitmask for SV2 |
+| SV1_SCND_TARGET | 35 | Secondary target selection bitmask for SV1 |
+| SV2_SCND_TARGET | 36 | Secondary target selection bitmask for SV2 |
+| SCND_TARGET | 37 | [Link](https://desidatamodel.readthedocs.io/en/latest/DESI_TARGET/TARG_DIR/DR/VERSION/targets/PHASE/RESOLVE/OBSCON/PHASEtargets-OBSCON-RESOLVE-hp-HP.html#hdu1) |
+| TSNR2_LYA | 38 | LYA template (S/N)^2 summed over B,R,Z |
+| TSNR2_QSO | 39 | QSO template (S/N)^2 summed over B,R,Z |
 
 
 
