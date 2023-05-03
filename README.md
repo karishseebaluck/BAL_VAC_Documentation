@@ -28,14 +28,19 @@ Our VAC file contains two catalogs which are described in more detail in the tab
 | TARGETID | 0 | [Link](https://desidatamodel.readthedocs.io/en/latest/DESI_SPECTRO_REDUX/SPECPROD/tiles/GROUPTYPE/TILEID/GROUPID/qso_qn-SPECTROGRAPH-TILEID-GROUPID.html) |
 | Z | 1 | Best fit redshift after masking |
 | ZERR | 2 | Best fit redshift error post masking |
-| ZWARN | 3 | ?? |
-| SPECTYPE | 4 | ?? |
-| COADD_FIBERSTATUS | 5 | ?? |
+| ZWARN | 3 | Warning flags; 0 is good |
+| SPECTYPE | 4 | Spectype from redrock file |
+| COADD_FIBERSTATUS | 5 | bitwise-AND of input FIBERSTATUS |
 | TARGET_RA | 6 | Target right ascension [degrees] |
 | TARGET_DEC | 7 | Target declination [degrees] |
 | MORPHTYPE | 8 | [Link](https://desidatamodel.readthedocs.io/en/latest/DESI_TARGET/TARG_DIR/DR/VERSION/targets/PHASE/RESOLVE/OBSCON/PHASEtargets-OBSCON-RESOLVE-hp-HP.html#hdu1) |
-| EBV | 9 | ?? |
+| EBV | 9 | [Link](https://desidatamodel.readthedocs.io/en/latest/DESI_TARGET/TARG_DIR/DR/VERSION/targets/PHASE/RESOLVE/OBSCON/PHASEtargets-OBSCON-RESOLVE-hp-HP.html#hdu1) |
 | PROBA_RF | 25 | ?? |
+| MASKBITS | 26 | [Link](https://desidatamodel.readthedocs.io/en/latest/DESI_TARGET/TARG_DIR/DR/VERSION/targets/PHASE/RESOLVE/OBSCON/PHASEtargets-OBSCON-RESOLVE-hp-HP.html#hdu1) |
+| SV3_DESI_TARGET | 27 | DESI (dark time program) target selection bitmask for SV2 |
+| SV3_SCND_TARGET | 28 | Secondary target selection bitmask for SV3 |
+| DESI_TARGET | 29 | [Link](https://desidatamodel.readthedocs.io/en/latest/DESI_TARGET/TARG_DIR/DR/VERSION/targets/PHASE/RESOLVE/OBSCON/PHASEtargets-OBSCON-RESOLVE-hp-HP.html#hdu1) |
+| COADD_NUMEXP | 30 | Number of exposures in coadd |
 
 
 
