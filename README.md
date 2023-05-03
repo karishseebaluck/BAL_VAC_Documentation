@@ -23,11 +23,14 @@ Our VAC file contains two catalogs which are described in more detail in the tab
 | QSO_cat_fuji_sv1_dark_bal_mask_v1.0.fits | 42.7 MB | 37,903 |
 | QSO_cat_fuji_sv3_dark_bal_mask_v1.0.fits | 57.4 MB | 50,993 |
 
-The description for columns 10 through 24 can be found [here](https://desidatamodel.readthedocs.io/en/latest/DESI_TARGET/TARG_DIR/DR/VERSION/targets/PHASE/RESOLVE/OBSCON/PHASEtargets-OBSCON-RESOLVE-hp-HP.html#hdu1).
+The descriptions for columns 10 through 24 can be found [here](https://desidatamodel.readthedocs.io/en/latest/DESI_TARGET/TARG_DIR/DR/VERSION/targets/PHASE/RESOLVE/OBSCON/PHASEtargets-OBSCON-RESOLVE-hp-HP.html#hdu1).
 
-The description for columns 40 through 46 can be found [here](https://desidatamodel.readthedocs.io/en/latest/DESI_SPECTRO_REDUX/SPECPROD/tiles/GROUPTYPE/TILEID/GROUPID/qso_mgii-SPECTROGRAPH-TILEID-GROUPID.html).
+The descriptions for columns 40 through 46 can be found [here](https://desidatamodel.readthedocs.io/en/latest/DESI_SPECTRO_REDUX/SPECPROD/tiles/GROUPTYPE/TILEID/GROUPID/qso_mgii-SPECTROGRAPH-TILEID-GROUPID.html).
 
-The description for columns 47 through 60 can be found [here](https://desidatamodel.readthedocs.io/en/latest/DESI_SPECTRO_REDUX/SPECPROD/tiles/GROUPTYPE/TILEID/GROUPID/qso_qn-SPECTROGRAPH-TILEID-GROUPID.html).
+The descriptions for columns 47 through 60 can be found [here](https://desidatamodel.readthedocs.io/en/latest/DESI_SPECTRO_REDUX/SPECPROD/tiles/GROUPTYPE/TILEID/GROUPID/qso_qn-SPECTROGRAPH-TILEID-GROUPID.html).
+
+The descriptions for columns 65 through 96 can be found in Table 1. of [Filbert et al. 2023](https://www.overleaf.com/read/gnvypxkmsdzs) (in preparation).
+
 | Column Name | # |  Description  |
 |:-----------:|:-:|---------------|
 | TARGETID | 0 | [Link](https://desidatamodel.readthedocs.io/en/latest/DESI_SPECTRO_REDUX/SPECPROD/tiles/GROUPTYPE/TILEID/GROUPID/qso_qn-SPECTROGRAPH-TILEID-GROUPID.html) |
@@ -57,7 +60,8 @@ The description for columns 47 through 60 can be found [here](https://desidatamo
 | TSNR2_QSO | 39 | QSO template (S/N)^2 summed over B,R,Z |
 | QSO_MASKBITS | 61 | ?? |
 | HPXPIXEL | 62 | [Link](https://desidatamodel.readthedocs.io/en/latest/DESI_TARGET/TARG_DIR/DR/VERSION/targets/PHASE/RESOLVE/OBSCON/PHASEtargets-OBSCON-RESOLVE-hp-HP.html#hdu1) |
-
+| SURVEY | 63 | SV3 Survey |
+| PROGRAM | 64 | Program name(dark) |
 
 
 **Note:**<br /> 
