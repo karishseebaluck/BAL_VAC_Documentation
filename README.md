@@ -33,7 +33,7 @@ Our VAC file contains two catalogs which are described in more detail in the tab
 | COADD_FIBERSTATUS | 5 | ?? |
 | TARGET_RA | 6 | Target right ascension [degrees] |
 | TARGET_DEC | 7 | Target declination [degrees] |
-| MORPHTYPE | 8 | ?? |
+| MORPHTYPE | 8 | [Link](https://desidatamodel.readthedocs.io/en/latest/DESI_TARGET/TARG_DIR/DR/VERSION/targets/PHASE/RESOLVE/OBSCON/PHASEtargets-OBSCON-RESOLVE-hp-HP.html#hdu1) |
 | EBV | 9 | ?? |
 | PROBA_RF | 25 | ?? |
 
