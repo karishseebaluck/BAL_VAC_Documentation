@@ -26,13 +26,16 @@ Our VAC file contains two catalogs which are described in more detail in the tab
 | Column Name | # |  Description  |
 |:-----------:|:-:|---------------|
 | TARGETID | 0 | [Link](https://desidatamodel.readthedocs.io/en/latest/DESI_SPECTRO_REDUX/SPECPROD/tiles/GROUPTYPE/TILEID/GROUPID/qso_qn-SPECTROGRAPH-TILEID-GROUPID.html) |
-| Z | 1 | QSO redshift after masking |
-| ZERR | 2 | QSO redshift error post masking |
+| Z | 1 | Best fit redshift after masking |
+| ZERR | 2 | Best fit redshift error post masking |
 | ZWARN | 3 | ?? |
 | SPECTYPE | 4 | ?? |
 | COADD_FIBERSTATUS | 5 | ?? |
 | TARGET_RA | 6 | Target right ascension [degrees] |
 | TARGET_DEC | 7 | Target declination [degrees] |
+| MORPHTYPE | 8 | ?? |
+| EBV | 9 | ?? |
+| PROBA_RF | 25 | ?? |
 
 
 
