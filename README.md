@@ -26,6 +26,8 @@ Our VAC file contains two catalogs which are described in more detail in the tab
 The description for columns 10 through 24 can be found [here](https://desidatamodel.readthedocs.io/en/latest/DESI_TARGET/TARG_DIR/DR/VERSION/targets/PHASE/RESOLVE/OBSCON/PHASEtargets-OBSCON-RESOLVE-hp-HP.html#hdu1).
 
 The description for columns 40 through 46 can be found [here](https://desidatamodel.readthedocs.io/en/latest/DESI_SPECTRO_REDUX/SPECPROD/tiles/GROUPTYPE/TILEID/GROUPID/qso_mgii-SPECTROGRAPH-TILEID-GROUPID.html).
+
+The description for columns 47 through 60 can be found [here](https://desidatamodel.readthedocs.io/en/latest/DESI_SPECTRO_REDUX/SPECPROD/tiles/GROUPTYPE/TILEID/GROUPID/qso_qn-SPECTROGRAPH-TILEID-GROUPID.html).
 | Column Name | # |  Description  |
 |:-----------:|:-:|---------------|
 | TARGETID | 0 | [Link](https://desidatamodel.readthedocs.io/en/latest/DESI_SPECTRO_REDUX/SPECPROD/tiles/GROUPTYPE/TILEID/GROUPID/qso_qn-SPECTROGRAPH-TILEID-GROUPID.html) |
@@ -53,6 +55,9 @@ The description for columns 40 through 46 can be found [here](https://desidatamo
 | SCND_TARGET | 37 | [Link](https://desidatamodel.readthedocs.io/en/latest/DESI_TARGET/TARG_DIR/DR/VERSION/targets/PHASE/RESOLVE/OBSCON/PHASEtargets-OBSCON-RESOLVE-hp-HP.html#hdu1) |
 | TSNR2_LYA | 38 | LYA template (S/N)^2 summed over B,R,Z |
 | TSNR2_QSO | 39 | QSO template (S/N)^2 summed over B,R,Z |
+| QSO_MASKBITS | 61 | ?? |
+| HPXPIXEL | 62 | [Link](https://desidatamodel.readthedocs.io/en/latest/DESI_TARGET/TARG_DIR/DR/VERSION/targets/PHASE/RESOLVE/OBSCON/PHASEtargets-OBSCON-RESOLVE-hp-HP.html#hdu1) |
+
 
 
 **Note:**<br /> 
