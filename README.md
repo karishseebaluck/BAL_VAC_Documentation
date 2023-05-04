@@ -23,7 +23,7 @@ Our VAC file contains two catalogs which are described in more detail in the tab
 | QSO_cat_fuji_sv1_dark_bal_mask_v1.0.fits | 42.7 MB | 37,903 |
 | QSO_cat_fuji_sv3_dark_bal_mask_v1.0.fits | 57.4 MB | 50,993 |
 
-The table below contains some the columns in our catalogs.
+The table below contains some of the columns in our catalogs.
 | Column Name | # |  Description  |
 |:-----------:|:-:|---------------|
 | TARGETID | 0 | [Link](https://desidatamodel.readthedocs.io/en/latest/DESI_SPECTRO_REDUX/SPECPROD/tiles/GROUPTYPE/TILEID/GROUPID/qso_qn-SPECTROGRAPH-TILEID-GROUPID.html) |
@@ -36,7 +36,7 @@ The table below contains some the columns in our catalogs.
 | TARGET_DEC | 7 | Target declination [degrees] |
 | MORPHTYPE | 8 | [Link](https://desidatamodel.readthedocs.io/en/latest/DESI_TARGET/TARG_DIR/DR/VERSION/targets/PHASE/RESOLVE/OBSCON/PHASEtargets-OBSCON-RESOLVE-hp-HP.html#hdu1) |
 | EBV | 9 | [Link](https://desidatamodel.readthedocs.io/en/latest/DESI_TARGET/TARG_DIR/DR/VERSION/targets/PHASE/RESOLVE/OBSCON/PHASEtargets-OBSCON-RESOLVE-hp-HP.html#hdu1) |
-| PROBA_RF | 25 | ?? |
+| PROBA_RF | 25 | Probability of Random Forest selection |
 | MASKBITS | 26 | [Link](https://desidatamodel.readthedocs.io/en/latest/DESI_TARGET/TARG_DIR/DR/VERSION/targets/PHASE/RESOLVE/OBSCON/PHASEtargets-OBSCON-RESOLVE-hp-HP.html#hdu1) |
 | SV3_DESI_TARGET | 27 | DESI (dark time program) target selection bitmask for SV3 |
 | SV3_SCND_TARGET | 28 | Secondary target selection bitmask for SV3 |
@@ -51,7 +51,7 @@ The table below contains some the columns in our catalogs.
 | SCND_TARGET | 37 | [Link](https://desidatamodel.readthedocs.io/en/latest/DESI_TARGET/TARG_DIR/DR/VERSION/targets/PHASE/RESOLVE/OBSCON/PHASEtargets-OBSCON-RESOLVE-hp-HP.html#hdu1) |
 | TSNR2_LYA | 38 | LYA template (S/N)^2 summed over B,R,Z |
 | TSNR2_QSO | 39 | QSO template (S/N)^2 summed over B,R,Z |
-| QSO_MASKBITS | 61 | ?? |
+| QSO_MASKBITS | 61 | QSO selection bitmask |
 | HPXPIXEL | 62 | [Link](https://desidatamodel.readthedocs.io/en/latest/DESI_TARGET/TARG_DIR/DR/VERSION/targets/PHASE/RESOLVE/OBSCON/PHASEtargets-OBSCON-RESOLVE-hp-HP.html#hdu1) |
 | SURVEY | 63 | SV3 Survey |
 | PROGRAM | 64 | Program name(dark) |
