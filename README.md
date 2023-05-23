@@ -90,7 +90,7 @@ Columns 65 through 96 as well as column 103 are "BAL specific columns", unique t
 | 86 | VMAX_SIIV_2000 | float32[5]  | km/s | Maximum velocity of BI absorption troughs blueward of SiIV. | 
 | 87 | POSMIN_SIIV_2000 | float32[5]  | km/s | Velocity displacement from SiIV of normalized flux minimum for each BI absorption trough. |
 | 88 | FMIN_SIIV_2000 | float32[5] | km/s | Value of normalized flux minimum for each BI absorption trough from SiIV. | 
-| 89 | AI_SIIV | float32 & Equivalent width of  \ion{SI}{IV} absorption by absorption index definition. |
+| 89 | AI_SIIV | float32 | km/s | Equivalent width of SiIV absorption by absorption index definition. |
 | 90 | ERR_AI_SIIV | float32 | km/s | Uncertainty in AI from SiIV absorption. | 
 | 91 | NSIIV_450 | int32 | | Number of absorption  troughs from SiIV extending > 450 km/s. | 
 | 92 | VMIN_SIIV_450 | float32[17] | km/s | Minimum velocity of AI absorption troughs blueward of SiIV. | 
