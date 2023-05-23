@@ -65,7 +65,7 @@ The descriptions for columns 47 through 60 can be found [here](https://desidatam
 Columns 65 through 96 as well as column 103 are "BAL specific columns", unique to the BAL VAC. Information about these targets is shown below and can  also be found in Table 1. of [Filbert et al. 2023](https://www.overleaf.com/read/gnvypxkmsdzs) (in preparation).
 
 | Column # | Column name | Data type | Units | Description |
-
+|:--------:|:-----------:|:---------:|:-----:|---------------|
 | 65 | PCA_COEFFS | float32[5] | | Coefficients on PCA eigenbasis for spectrum fit. |
 | 66 | PCA_CHI2  | float32 | | Goodness of fit from PCA components. |
 | 67 | BAL_PROB | float32 | | Likelihood of BAL (not populated in DESI EDR BAL catalog) | 
